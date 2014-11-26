@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97.2-->
+<!--File: /root/.dia/sheets/mmt.sheet-->
+<!--Date: Wed Nov 26 09:08:24 2014-->
+<!--For: root-->
+
+<name>mmt</name>
+<description></description>
+<contents>
+<!--add shapes here-->
+<object name="AADL - Data">
+<description>Data</description></object><object name="SDL - Comment">
+<description>Comment</description></object><object name="SDL - Stop">
+<description>Stop</description></object><object name="Flowchart - Box">
+<description>Process/Auxiliary Operation</description></object><object name="Geometric - Hexagon">
+<description>Hexagon. Six sided shape</description></object><object name="Cisco - Radio Tower">
+<description>Radio Tower</description></object><object name="Cisco - Cellular phone">
+<description>Cellular Phone</description></object><object name="UML - Association" intdata="0">
+<description>Association, two classes are associated</description></object><object name="Network - WAN Link">
+<description>WAN link</description></object><object name="Cisco - Laptop">
+<description>Laptop</description></object><object name="Misc - Tree">
+<description>Tree</description></object><object name="Network - Hub">
+<description>Stackable hub or switch</description></object></contents></sheet>
