@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>CH-1 notation</name>
+  <name xml:lang="de">CH-1-Notation</name>
+  <name xml:lang="ru">CH-1 нотация</name>
+  <description>CH-1 notation</description>
+  <description xml:lang="de">CH-1-Notation</description>
+  <description xml:lang="ru">CH-1 нотация</description>
+  <contents>
+    <object name="CH-1 - Work">
+      <description>Work</description>
+      <description xml:lang="de">Arbeit</description>
+      <description xml:lang="ru">Работа</description>
+    </object>
+    <object name="CH-1 - Event">
+      <description>Event</description>
+      <description xml:lang="de">Ereignis</description>
+      <description xml:lang="ru">Событие</description>
+    </object>
+    <object name="CH-1 - Storage">
+      <description>Storage</description>
+      <description xml:lang="de">Speicher</description>
+      <description xml:lang="it">Archiviazione</description>
+      <description xml:lang="ru">Хранилище</description>
+    </object>
+    <object name="CH-1 - Employee">
+      <description>Employee</description>
+      <description xml:lang="de">Angestellter</description>
+      <description xml:lang="ru">Сотрудник</description>
+    </object>
+    <object name="CH-1 - Department">
+      <description>Department</description>
+      <description xml:lang="de">Abteilung</description>
+      <description xml:lang="ru">Подразделение</description>
+    </object>
+    <object name="CH-1 - Outside participant">
+      <description>Outside participant</description>
+      <description xml:lang="de">Außenstehender</description>
+      <description xml:lang="ru">Сторонний участник</description>
+    </object>
+    <object name="CH-1 - Device">
+      <description>Device</description>
+      <description xml:lang="de">Gerät</description>
+      <description xml:lang="ru">Техническое средство</description>
+    </object>
+    <object name="CH-1 - Condition">
+      <description>Condition</description>
+      <description xml:lang="de">Bedingung</description>
+      <description xml:lang="ru">Условие</description>
+    </object>
+    <object name="CH-1 - Junction">
+      <description>Junction (AND, OR, XOR)</description>
+      <description xml:lang="de">Knoten (UND, ODER, XOR)</description>
+      <description xml:lang="ru">Перекрёсток</description>
+    </object>
+    <object name="CH-1 - Note">
+      <description>Note</description>
+      <description xml:lang="de">Notiz</description>
+      <description xml:lang="ru">Заметка</description>
+    </object>
+    <object name="CH-1 - Delay">
+      <description>Delay</description>
+      <description xml:lang="de">Verzögerung</description>
+      <description xml:lang="ru">Задержка</description>
+    </object>
+ </contents>
+</sheet>

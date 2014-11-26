@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Building Site</name>
+  <name xml:lang="de">Baustelleneinrichtung</name>
+  <description>Building Site Equipment</description>
+  <description xml:lang="de">Symbole für Baustelleneinrichtungspläne</description>
+  <contents>
+    <object name="Building Site - Horizontal Road">
+      <description>Road (horizontal)</description>
+      <description xml:lang="de">Straße (horizontal)</description>
+    </object>
+    <object name="Building Site - Vertical Road">
+      <description>Road (vertical)</description>
+      <description xml:lang="de">Straße (vertikal)</description>
+    </object>
+    <object name="Building Site - Road Turn">
+      <description>Road (turn)</description>
+      <description xml:lang="de">Straße (Bogen)</description>
+    </object>
+    <object name="Building Site - Road Tee">
+      <description>Road (tee)</description>
+      <description xml:lang="de">Straße (T)</description>
+    </object>
+    <object name="Building Site - Road Rotated Tee">
+      <description>Road (rotated tee)</description>
+      <description xml:lang="de">Straße (rotiertes T)</description>
+    </object>
+    <object name="Building Site - Road Crossroads">
+      <description>Road (crossroads)</description>
+      <description xml:lang="de">Straße (Kreuzung)</description>
+    </object>
+    <object name="Building Site - Horizontal Fence">
+      <description>Fence (horizontal)</description>
+      <description xml:lang="de">Zaun (horizontal)</description>
+    </object>
+    <object name="Building Site - Vertical Fence">
+      <description>Fence (vertical)</description>
+      <description xml:lang="de">Zaun (vertikal)</description>
+    </object>
+    <object name="Building Site - Horizontal Slope">
+      <description>Slope (horizontal)</description>
+      <description xml:lang="de">Böschung (horizontal)</description>
+    </object>
+    <object name="Building Site - Vertical Slope">
+      <description>Slope (vertical)</description>
+      <description xml:lang="de">Böschung (vertikal)</description>
+    </object>
+    <object name="Building Site - Horizontal Wall">
+      <description>Wall (horizontal)</description>
+      <description xml:lang="de">Wand (horizontal)</description>
+    </object>
+    <object name="Building Site - Vertical Wall">
+      <description>Wall (vertical)</description>
+      <description xml:lang="de">Wand (vertikal)</description>
+    </object>
+    <object name="Building Site - Pre-Silo">
+      <description>Pre-Silo</description>
+      <description xml:lang="de">Vorsilo</description>
+    </object>
+    <object name="Building Site - Proportioning Batcher">
+      <description>Proportioning Batcher</description>
+      <description xml:lang="de">Zuteiler</description>
+    </object>
+    <object name="Building Site - Concrete Mixer">
+      <description>Concrete Mixer</description>
+      <description xml:lang="de">Betonmischer</description>
+    </object>
+    <object name="Building Site - Circle Diagonal Quarters Filled">
+      <description>Circle, Diagonal Quarters Filled</description>
+      <description xml:lang="de">Kreis, gegenüberliegende Viertel gefüllt</description>
+    </object>
+  </contents>
+</sheet>
